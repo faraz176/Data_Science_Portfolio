@@ -16,8 +16,8 @@ For more info about the analysis conducted,check out (Website)
 * ### Software Engineering
   * [Web Automation with Selenium](https://github.com/faraz176/TikTok-BruteFroce). Using selenium I created a web automation tool which tests out the login feature of pages.
   
-  
-  
+* ### Statistics
+  * [Simulating Binomial Distribution with Python](https://github.com/faraz176/Binomial-Distribution/blob/main/Binomial%20Distribution.ipynb). I solved Binomial Distribution problems using python. 
   
 * ### Micro Projects
-  * [Class of Useful Pandas Functions](https://github.com/faraz176/useful_pandas_functions/blob/master/classes.py) A class of useful pandas functions I have created to help me with unique computations
+  * [Class of Useful Pandas Functions](https://github.com/faraz176/useful_pandas_functions/blob/master/classes.py) A class of useful pandas functions I have created to help me with unique computations.
