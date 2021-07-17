@@ -15,6 +15,7 @@ For more info about the analysis conducted,check out (Website)
   
 * ### Software Engineering
   * [Web Automation with Selenium](https://github.com/faraz176/TikTok-BruteFroce). Using selenium I created a web automation tool which tests out the login feature of pages.
+  
   * [Company Email Address Generator](https://github.com/faraz176/Company_Email/blob/main/normdistributed.py). I created a class that takes in the comapanies website as input and the employees name. It then outputs an email for that employee. Ex: John.M.Smith@crosscorp.com
   
 * ### Statistics
