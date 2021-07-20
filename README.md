@@ -15,6 +15,7 @@ For more info about the analysis conducted,check out (Website)
   
 * ### Software Engineering
   * [Web Automation with Selenium](https://github.com/faraz176/TikTok-BruteFroce). Using selenium I created a web automation tool which tests out the login feature of pages.
+  * [Connect 4 AI with MiniMax](https://github.com/faraz176/Connect_4_Ai). I created a connect 4 game from scratch and created an over powered AI using a Minimax algorithm (still in progress).
   
   * [Company Email Address Generator](https://github.com/faraz176/Company_Email/blob/main/normdistributed.py). I created a class that takes in the companies websites as input and the employees name. It then outputs an email for that employee. Ex: John.M.Smith@crosscorp.com
   
