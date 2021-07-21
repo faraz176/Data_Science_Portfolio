@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Programming Portfolio
 
 Contains links to respositories of data science and software engineering projects completed by me. 
 For more info about the analysis conducted,check out (Website)
